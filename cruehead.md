@@ -19,7 +19,7 @@ Clicking Help, followed by Register, opens a new box. The registration fails unl
 2. Open Strings viewer(shift + F12) and identify 'Great Work, mate!' as the target response
 ![image](https://github.com/samuelpriddy/Reverse-Engineering.github.io/assets/111523310/a7dfe2a3-6b3e-4a65-ba7b-96b4d8469488)
 
-3. Follow the target response calls and identify sub_40134D as the target function, renamed to display_good_message
+3. Follow the target response calls and identify sub_40134D as the target function, renamed to display_good_message  
    Crackme1.exe jumps to the display_good_message if eax == ebx, defined in lines 00401241 and 00401243
 ![image](https://github.com/samuelpriddy/Reverse-Engineering.github.io/assets/111523310/bb981c69-dd1e-43ee-a0fe-5d3104a53533)
 
