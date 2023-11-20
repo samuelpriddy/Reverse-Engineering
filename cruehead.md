@@ -1,7 +1,8 @@
 # 11/20/23 - Cruehead
 
-## Files
+## Files/Links
 [cruehead1.zip](https://github.com/samuelpriddy/Reverse-Engineering.github.io/files/13419266/cruehead1.zip)  
+[Youtube Walkthrough](https://www.youtube.com/watch?v=Uo4fGnld4zk)
 
 ## Tools
 [IDA Free](https://hex-rays.com/ida-free/)
